@@ -3,7 +3,7 @@ copyright = "Copyright © 2025 Neil Mosser"
 enableGitInfo = true
 
 # additional settings
-baseURL = "https://example.com/"
+baseURL = "https://storytimecentral.com/"
 canonifyURLs = false
 enableEmoji = true
 enableRobotsTXT = true
